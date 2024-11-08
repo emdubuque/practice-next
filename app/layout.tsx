@@ -1,4 +1,5 @@
 import '@/app/ui/global.css';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {inter} from '@/app/ui/fonts';
 import { Metadata } from 'next';
  
